@@ -117,7 +117,7 @@ body {
 /* Рішення */
 
 .decision {
-  background-color: var(--decision-bg-color);
+  background-color: var(--primary-bg-color);
   text-align: center;
   padding-top: 200px;
   padding-bottom: 200px;
